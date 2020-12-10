@@ -76,7 +76,7 @@ a {
 	&:not(.button) {
 		@include anchor-aspect(main);
 		@include font-weight(link);
-		color:magenta;
+		color: rgba(255, 42, 184, 0.986);
 	}
 
 	&.button-link {

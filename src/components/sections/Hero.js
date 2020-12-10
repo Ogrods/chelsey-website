@@ -62,7 +62,6 @@ const Hero = ({
 
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
               <Image
-                className="has-shadow"
                 src={require('./../../assets/images/chester-logo.JPG')}
                 alt="Hero"
                 width={896}
@@ -70,7 +69,7 @@ const Hero = ({
           </div>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Landing template for <span className="text-color-primary">startups</span>
+              Welcome to <span className="text-color-primary">Chester's House of Hair</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
