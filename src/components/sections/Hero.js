@@ -58,35 +58,34 @@ const Hero = ({
       className={outerClasses}
     >
       <div className="container-sm">
-        <div className={innerClasses}>
+        <div>
 
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
               <Image
                 src={require('./../../assets/images/chester-logo.JPG')}
                 alt="Hero"
-                width={896}
-                height={504} />
+
+                height={304} />
           </div>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Welcome to <span className="text-color-primary">Chester's House of Hair</span>
+              <span className="text-color-primary">Chester's House of Hair</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+                
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Get started
-                    </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
+                  <Button tag="a" color="primary" wideMobile href="https://t.co/Odl8FhDKb8?amp=1" target="_blank">
+                    Click Here to Book an Appointment
                     </Button>
                 </ButtonGroup>
               </div>
             </div>
           </div>
+        <br></br>
+        <br></br>
         </div>
       </div>
     </section>
