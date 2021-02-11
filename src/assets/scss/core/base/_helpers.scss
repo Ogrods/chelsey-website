@@ -64,7 +64,7 @@
 }
 
 .text-color-primary {
-	color: rgba(255, 42, 184, 0.986);
+	color: rgba(248, 60, 185, 0.986);
 }
 
 .text-color-secondary {
@@ -161,6 +161,8 @@ img.has-shadow {
 	video {
 		margin-left: auto;
 		margin-right: auto;
+		margin-top: -40px;
+		margin-bottom: 10px;
 	}
 
 	.button-group {
