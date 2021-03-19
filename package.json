@@ -21,8 +21,8 @@
     "type": "git",
     "url": "https://github.com/cruip/open-react-template.git"
   },
-  "scripts": {
-    "start": "react-scripts start",
+
+start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
