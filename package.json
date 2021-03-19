@@ -2,6 +2,10 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "yarn": "1.22.5",
+    "node": "12.18.4"
+  },
   "dependencies": {
     "classnames": "^2.2.6",
     "google-map-react": "^2.1.9",
@@ -17,6 +21,7 @@
     "type": "git",
     "url": "https://github.com/cruip/open-react-template.git"
   },
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
