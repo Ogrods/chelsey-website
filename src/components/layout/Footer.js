@@ -45,7 +45,7 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
 
-            <div className="footer-copyright">Made by <a href="https://www.danogrodnik.com">Dan Ogrodnik</a>. All right reserved</div>
+            <div className="footer-copyright">Made by <a target="blank_" href="https://www.danogrodnik.com">Dan Ogrodnik</a>. All right reserved</div>
           </div>
         </div>
       </div>
